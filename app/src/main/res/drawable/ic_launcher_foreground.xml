@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center circular glow base -->
+    <path
+        android:fillColor="#25FFFFFF"
+        android:pathData="M54,54m-28,0a28,28 0,1,1 56,0a28,28 0,1,1 -56,0" />
+    <!-- Main document / portal shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,32h24l13,13v31c0,2.2 -1.8,4 -4,4H37c-2.2,0 -4,-1.8 -4,-4V36c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Document fold corner -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M61,32v13h13z" />
+    <!-- Document lines -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M41,45h14v2.5H41zM41,51h26v2.5H41zM41,57h20v2.5H41z" />
+    <!-- Smartphone badge overlaid at bottom right -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M56,53h18c1.6,0 3,1.4 3,3v22c0,1.6 -1.4,3 -3,3H56c-1.6,0 -3,-1.4 -3,-3V56c0,-1.6 1.4,-3 3,-3z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M58,58h14v13H58z" />
+    <!-- Phone home indicator / button -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,73h4v1.5h-4z" />
+    <!-- Gold Shyam emblem star at top left -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M34,31l2.5,5.5l6,0.8l-4.4,4.2l1,6l-5.1,-2.8l-5.1,2.8l1,-6l-4.4,-4.2l6,-0.8z" />
+</vector>

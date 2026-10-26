@@ -1,0 +1,6 @@
+{
+  "name": "Shree Shyam E-mitra Bundi",
+  "description": "Rajasthan E-Mitra services, government vacancies, required documents, fee payment, mobile repair & accessories, and Bundi local private jobs with shop location and contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
